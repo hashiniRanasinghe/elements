@@ -1,0 +1,24 @@
+List<Map<String, dynamic>> musicList = [
+  {
+    'id': 1,
+    'name': 'Song A',
+    'description': 'Description of Song A',
+    'price': 0.99,
+    'imageUri': 'https://example.com/song_a.jpg',
+  },
+  {
+    'id': 2,
+    'name': 'Song B',
+    'description': 'Description of Song B',
+    'price': 1.49,
+    'imageUri': 'https://example.com/song_b.jpg',
+  },
+  {
+    'id': 3,
+    'name': 'Song C',
+    'description': 'Description of Song C',
+    'price': 2.99,
+    'imageUri': 'https://example.com/song_c.jpg',
+  },
+  // Add more music items as needed
+];
